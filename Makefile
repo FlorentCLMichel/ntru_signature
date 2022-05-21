@@ -9,4 +9,5 @@ debug:
 
 clean: 
 	rm -rf target
+	rm -rf temp
 	rm -f Cargo.lock
